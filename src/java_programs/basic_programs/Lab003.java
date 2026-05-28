@@ -1,4 +1,4 @@
-package java_programs;
+package java_programs.basic_programs;
 
 public class Lab003 {
 
