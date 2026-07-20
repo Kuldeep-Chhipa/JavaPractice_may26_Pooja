@@ -7,7 +7,7 @@ public class Lab149_Arrays {
         System.out.println(marks.length);
         System.out.println(marks[0]);
         System.out.println(marks[6]);
-//        System.out.println(marks[10]); java.lang.ArrayIndexOutOfBoundsException
+       // System.out.println(marks[10]); //java.lang.ArrayIndexOutOfBoundsException
 
         boolean[] is_married_people = {true, true, false};
 

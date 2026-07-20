@@ -13,7 +13,7 @@ public class Lab150_Arrays {
         System.out.println(names[0]);
         System.out.println(names[1]);
         System.out.println(names[2]);
-//        System.out.println(names[]);
+//       System.out.println(names[]);
 
 
     }

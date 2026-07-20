@@ -8,5 +8,6 @@ public class Lab160_JaggedArrays {
                 {4, 5, 6, 9},
                 {7}
         };
+        System.out.println(jaggedArray.length);
     }
 }
